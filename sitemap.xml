@@ -127,7 +127,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://allen.com/4.html</loc>
+    <loc>http://allen.com/400.html</loc>
     <lastmod>2020-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -166,7 +166,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://allen.com/%E9%BB%91%E7%99%BD.html</loc>
+    <loc>http://allen.com/bw.html</loc>
     <lastmod>2020-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -238,7 +238,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://allen.com/%E9%80%A0%E5%8B%A2.html</loc>
+    <loc>http://allen.com/2020vote.html</loc>
     <lastmod>2020-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -261,7 +261,7 @@
       <image:loc>http://allen.com/images/dsc_0579.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://allen.com/images/dsc_0590638x426.jpg</image:loc>
+      <image:loc>http://allen.com/images/dsc_0590-crop-u14231.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://allen.com/images/dsc_06842.jpg</image:loc>

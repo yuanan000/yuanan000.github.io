@@ -1,49 +1,49 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="allen.com" resolutions="1x" timestamp="1579025857618">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="allen.com" resolutions="1x" timestamp="1579068041325">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="contact.css" crc="4196756235" ref="contact"/>
-    <file name="index.css" crc="279073259" ref="index"/>
-    <file name="about.css" crc="302718274" ref="about"/>
-    <file name="4.css" crc="478856362" ref="4"/>
-    <file name="photo.css" crc="4093128174" ref="photo"/>
-    <file name="__1.css" crc="3836353299" ref="黑白"/>
+    <file name="bw.css" crc="3836353299" ref="bw"/>
     <file name="3d.css" crc="332165389" ref="3d"/>
-    <file name="__.css" crc="3909129937" ref="造勢"/>
+    <file name="index.css" crc="279073259" ref="index"/>
+    <file name="contact.css" crc="4196756235" ref="contact"/>
+    <file name="400.css" crc="478856362" ref="400"/>
+    <file name="about.css" crc="302718274" ref="about"/>
+    <file name="photo.css" crc="4093128174" ref="photo"/>
+    <file name="2020vote.css" crc="4025212127" ref="2020vote"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photo:3d:contact:4:黑白:造勢:about"/>
-    <file name="museutils.js" crc="3803043152" ref="index:photo:3d:contact:4:黑白:造勢:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:photo:3d:contact:4:黑白:造勢:about"/>
-    <file name="museconfig.js" crc="380897831" ref="index:photo:3d:contact:4:黑白:造勢:about"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:photo:3d:contact:4:黑白:造勢:about"/>
-    <file name="webpro.js" crc="242022427" ref="index:3d:4:黑白:造勢"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:3d:4:黑白:造勢"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:3d:4:黑白:造勢"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:3d:4:黑白:造勢"/>
-    <file name="require.js" crc="4157109226" ref="index:photo:3d:contact:4:黑白:造勢:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photo:3d:contact:400:bw:2020vote:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:photo:3d:contact:400:bw:2020vote:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photo:3d:contact:400:bw:2020vote:about"/>
+    <file name="museconfig.js" crc="380897831" ref="index:photo:3d:contact:400:bw:2020vote:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:photo:3d:contact:400:bw:2020vote:about"/>
+    <file name="webpro.js" crc="242022427" ref="index:3d:400:bw:2020vote"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:3d:400:bw:2020vote"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:3d:400:bw:2020vote"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:3d:400:bw:2020vote"/>
+    <file name="require.js" crc="4157109226" ref="index:photo:3d:contact:400:bw:2020vote:about"/>
   </folder>
   <folder name="images">
     <file name="a-主版-favicon.ico" crc="437380706" ref="index"/>
     <file name="dsc_0164.jpg" crc="367368352" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:3d:4:黑白:造勢"/>
+    <file name="blank.gif" crc="4208392903" ref="index:3d:400:bw:2020vote"/>
     <file name="dsc_0570.jpg" crc="216996719" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dsc_0697.jpg" crc="4197141193" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:3d:4:黑白:造勢"/>
+    <file name="loading.gif" crc="3815509949" ref="index:3d:400:bw:2020vote"/>
     <file name="08.png" crc="4071907888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dsc_0658.jpg" crc="4222740665" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_0590.jpg" crc="384108582" seo="true" ref="index:造勢">
+    <file name="dsc_0590.jpg" crc="384108582" seo="true" ref="index:2020vote">
       <caption webpage="index" alt=""/>
-      <caption webpage="造勢" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
     <file name="01 (14).jpg" crc="117887381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -90,7 +90,7 @@
       <caption webpage="3d" alt=""/>
       <caption webpage="3d" alt=""/>
     </file>
-    <file name="01 (8)-crop-u4755.jpg" crc="4292657499" seo="true" ref="3d">
+    <file name="01 (8)-crop-u4755.jpg" crc="4144374396" seo="true" ref="3d">
       <caption webpage="3d" alt=""/>
     </file>
     <file name="01 (9).jpg" crc="3933017971" seo="true" ref="3d">
@@ -140,163 +140,163 @@
     <file name="01 (21).jpg" crc="3871371640" seo="true" ref="3d">
       <caption webpage="3d" alt=""/>
     </file>
-    <file name="dsc_0622.jpg" crc="278422103" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0622.jpg" crc="278422103" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_0641.jpg" crc="40556793" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0641.jpg" crc="40556793" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_0652.jpg" crc="145500907" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0652.jpg" crc="145500907" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_0654.jpg" crc="3867768380" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0654.jpg" crc="3867768380" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_0658-crop-u14579.jpg" crc="103089174" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0658-crop-u14579.jpg" crc="103089174" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_0659.jpg" crc="4279886375" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0659.jpg" crc="4279886375" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_06972.jpg" crc="326266408" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_06972.jpg" crc="326266408" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_0701.jpg" crc="425337765" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0701.jpg" crc="425337765" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_0856.jpg" crc="305545213" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0856.jpg" crc="305545213" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_09192.jpg" crc="1758954" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
-      <caption webpage="4" alt=""/>
+    <file name="dsc_09192.jpg" crc="1758954" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="dsc_0658834x556.jpg" crc="3939936789" seo="true" ref="4">
-      <caption webpage="4" alt=""/>
+    <file name="dsc_0658834x556.jpg" crc="3939936789" seo="true" ref="400">
+      <caption webpage="400" alt=""/>
     </file>
-    <file name="01.jpg" crc="300100153" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
-      <caption webpage="黑白" alt=""/>
+    <file name="01.jpg" crc="300100153" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="02.jpg" crc="407136888" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
-      <caption webpage="黑白" alt=""/>
+    <file name="02.jpg" crc="407136888" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="03-crop-u14919.jpg" crc="3914701636" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="03-crop-u14919.jpg" crc="3914701636" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="04-crop-u14939.jpg" crc="424923101" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="04-crop-u14939.jpg" crc="424923101" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="05-crop-u14959.jpg" crc="26471249" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="05-crop-u14959.jpg" crc="26471249" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="06-crop-u14979.jpg" crc="121218209" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="06-crop-u14979.jpg" crc="121218209" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="07-crop-u14999.jpg" crc="4017269163" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="07-crop-u14999.jpg" crc="4017269163" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="08-crop-u15019.jpg" crc="186663861" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="08-crop-u15019.jpg" crc="186663861" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="09-crop-u15039.jpg" crc="3843825736" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="09-crop-u15039.jpg" crc="3843825736" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="10-crop-u15059.jpg" crc="118651412" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="10-crop-u15059.jpg" crc="118651412" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="11-crop-u15079.jpg" crc="3825575126" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="11-crop-u15079.jpg" crc="3825575126" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="12-crop-u15099.jpg" crc="3974543518" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="12-crop-u15099.jpg" crc="3974543518" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="03.jpg" crc="4260132974" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="03.jpg" crc="4260132974" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="04203x360.jpg" crc="182610899" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="04203x360.jpg" crc="182610899" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="05.jpg" crc="3879290731" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="05.jpg" crc="3879290731" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="06.jpg" crc="140598265" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="06.jpg" crc="140598265" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="07203x360.jpg" crc="4148982422" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="07203x360.jpg" crc="4148982422" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="08883x497.jpg" crc="225379818" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="08883x497.jpg" crc="225379818" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="09.jpg" crc="138061157" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="09.jpg" crc="138061157" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="10203x360.jpg" crc="426731239" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="10203x360.jpg" crc="426731239" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="11203x360.jpg" crc="4131483690" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="11203x360.jpg" crc="4131483690" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="12203x360.jpg" crc="319181839" seo="true" ref="黑白">
-      <caption webpage="黑白" alt=""/>
+    <file name="12203x360.jpg" crc="319181839" seo="true" ref="bw">
+      <caption webpage="bw" alt=""/>
     </file>
-    <file name="dsc_0511.jpg" crc="53036338" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0511.jpg" crc="53036338" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_0540.jpg" crc="3851831272" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0540.jpg" crc="3851831272" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_0565.jpg" crc="447801862" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0565.jpg" crc="447801862" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_0577.jpg" crc="4086612673" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0577.jpg" crc="4086612673" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_0579.jpg" crc="4228009421" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0579.jpg" crc="4228009421" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_0590638x426.jpg" crc="78459415" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0590-crop-u14231.jpg" crc="5975631" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_06842.jpg" crc="139862876" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_06842.jpg" crc="139862876" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_0693.jpg" crc="526160670" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0693.jpg" crc="526160670" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_0728.jpg" crc="3970116613" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0728.jpg" crc="3970116613" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
-    <file name="dsc_0732.jpg" crc="4137827422" seo="true" ref="造勢">
-      <caption webpage="造勢" alt=""/>
-      <caption webpage="造勢" alt=""/>
+    <file name="dsc_0732.jpg" crc="4137827422" seo="true" ref="2020vote">
+      <caption webpage="2020vote" alt=""/>
+      <caption webpage="2020vote" alt=""/>
     </file>
     <file name="u15800-4.png" crc="123418757" ref="about"/>
   </folder>
   <file name="index.html" crc="139623895" seo="true" mt="1579024089692" redirect="true"/>
-  <file name="photo.html" crc="4015585098" seo="true" mt="1579024003035" redirect="true"/>
-  <file name="3d.html" crc="77058252" seo="true" mt="1579025842636" redirect="true"/>
+  <file name="photo.html" crc="4119608710" seo="true" mt="1579067973046" redirect="true"/>
+  <file name="3d.html" crc="362947319" seo="true" mt="1579025842636" redirect="true"/>
   <file name="contact.html" crc="3880995054" seo="true" mt="1579024197160" redirect="true"/>
-  <file name="4.html" crc="4032153272" seo="true" mt="1579025689557" redirect="true"/>
-  <file name="黑白.html" crc="31888248" seo="true" mt="1579025661833" redirect="true"/>
-  <file name="造勢.html" crc="4289756197" seo="true" mt="1579025819924" redirect="true"/>
+  <file name="400.html" crc="29628276" seo="true" mt="1579067907966" redirect="true"/>
+  <file name="bw.html" crc="511139863" seo="true" mt="1579067973046" redirect="true"/>
+  <file name="2020vote.html" crc="15491331" seo="true" mt="1579068016927" redirect="true"/>
   <file name="about.html" crc="237340681" seo="true" mt="1579024540895" redirect="true"/>
 </manifest>
